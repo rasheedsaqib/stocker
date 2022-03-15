@@ -181,3 +181,11 @@ footer{
 .icon{
   width: 30px;
 }
+
+.theme-table {
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+
+  th span{
+    cursor: pointer;
+  }
+}
